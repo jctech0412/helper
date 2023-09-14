@@ -1,0 +1,21 @@
+How to host MERN Stack project to Ubuntu 22.04:
+
+
+Install Git
+
+https://www.digitalocean.com/community/tutorials/how-to-install-git-on-ubuntu-20-04
+
+
+1) Install Node.js (latest version 18.x)
+https://www.digitalocean.com/community/tutorials/how-to-install-node-js-on-ubuntu-22-04
+
+
+
+2) Install Nginx
+https://www.digitalocean.com/community/tutorials/how-to-install-nginx-on-ubuntu-20-04
+
+
+
+3) Install MongoDB
+https://www.fosstechnix.com/how-to-install-mongodb-on-ubuntu-22-04-lts/
+
